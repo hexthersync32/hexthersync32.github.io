@@ -15,16 +15,20 @@ categories:
 
 In this section, you'll be able to gain insight into my personal strengths and attributes that contribute to effective teamwork, leadership, and problem-solving in various business contexts.
 
-> Good communication
+> Assertiveness;
 
-> Focus on performance
+> Analytical thinking;
 
-> Emotional intelligence
+> Problem solving;
 
-> Interpersonal intelligence
+> Teamwork;
 
-> Resilience
+> Good communication;
 
-> Persistence in achieving goals
+> Organization;
 
-> Teamwork
+> Adaptability; 
+
+> Continuous learning and innovation; 
+
+> Time management.
