@@ -6,7 +6,7 @@ layout: "strenghts"
 slug: "strenghts"
 menu:
     main:
-        weight: 12
+        weight: 13
         params: 
             icon: archives
 categories:
