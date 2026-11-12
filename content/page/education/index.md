@@ -6,7 +6,7 @@ layout: "education"
 slug: "education"
 menu:
     main:
-        weight: 7
+        weight: 8
         params: 
             icon: archives
 categories:

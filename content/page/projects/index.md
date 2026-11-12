@@ -6,7 +6,7 @@ layout: "projects"
 slug: "projects"
 menu:
     main:
-        weight: 11
+        weight: 12
         params: 
             icon: archives
 links:

@@ -6,7 +6,7 @@ layout: "experiences"
 slug: "experiences"
 menu:
     main:
-        weight: 8
+        weight: 9
         params: 
             icon: archives
 categories:
@@ -15,160 +15,51 @@ categories:
 
 In this section, you'll be able to learn about my past professional roles, highlighting key responsibilities and accomplishments that contribute to a well-rounded career profile.
 
-# Toinho Atacadista
+# Alfa Gestão de Recursos Humanos Ltda.
 
 <div>
-    <b>Position:</b> Stocktaker
+    <b>Position:</b> Computerized Voting Support Technician - 2nd Profile.
     <br>
-    <b>Period of Activity:</b> April/2016 - June/2018
-    <p>
-        <b>Roles:</b>
-    </p>
+    <b>Period of Activity:</b> September/2026 - October/2026.
+    <br>
+    <b>Roles:</b>
     <ul>
-        <li>Receipt of products from the distributor;</li>
-        <li>Organization of products according to their classification;</li>
-        <li>Replacement of damaged and/or expired products;</li>
-        <li>General cleaning of the workplace every day;</li>
-        <li>Cash shortage when the operator was absent;</li>
-        <li>Customer service and reception, especially for those with physical disabilities.</li>
+        <li>Assistance with logistics, setting up voting machines (UE, in Brazilian Portuguese), and providing support to the polling station team;</li>
+        <li>Creation of media for the operation of software designed for recording and tallying votes;</li>
+        <li>Implementation of techniques to ensure that voting machines function properly during the designated election period.</li>
     </ul>
-    <p>
-        <b>
-            Used tools:
-        </b>
-        <ul>
-            <li>Datacaixa PDV.</li>
-        </ul>
-    </p>
+    <b>Used tools:</b>
+    <ul>
+        <li>GEDAI-UE;</li>
+        <li>SIMON.</li>
+    </ul>
 <div>
 
 <hr>
 
-# Self-Employment
+# FG Copiadoras
 
 <div>
-    <b>Position:</b> Mathematics and Essay Private Teacher
+    <b>Position:</b> Electronic Equipment Service Technician.
     <br>
-    <b>Period of Activity:</b> August/2018 - November/2018
-    <p>
-        <b>Roles:</b>
-    </p>
+    <b>Period of Activity:</b> May/2026 - September/2026.
+    <br>
+    <b>Roles:</b>
     <ul>
-        <li>Introduction to logical thinking and abstraction of mathematical concepts;</li>
-        <li>Review of basic operations;</li>
-        <li>Resolution of issues within the institution itself;</li>
-        <li>Resolution of college entrance exame questions (Fuvest, Unicamp, ITA, etc.);</li>
-        <li>Presentation of strutures of an essay text;</li>
-        <li>Correction of essays according to evaluation criteria provided by MEC - Ministério da Educação;</li>
-        <li>Tips for reading sociocultural approach materials.</li>
+        <li>Receipt of service orders for printer maintenance for individual and private customers;</li>
+        <li>Collection of damaged or malfunctioning printers for inspection or disposal;</li>
+        <li>Monitoring of printers connected to our intranet for any necessary actions;</li>
+        <li>Receipt of supplies for printing equipments;</li>
+        <li>Organizing loose external parts, toner cartridges, and electronic components so that other technicians can easily locate them;</li>
+        <li>Installing drivers via network sharing or a USB cable and updating printer firmware to enhance security;</li>
+        <li>Toner cartridge replacement and ink unclogging for better print quality.</li>
     </ul>
-    <p>
-        <b>
-            Used tools:
-        </b>
-        <ul>
-            <li>Descomplica;</li>
-            <li>Estante Virtual;</li>
-            <li>Kahoot;</li>
-            <li>Photomath.</li>
-        </ul>
-    </p>
-<div>
-
-<hr>
-
-# Quality Mais Service
-
-<div>
-    <b>Position:</b> Contract Analyst
-    <br>
-    <b>Period of Activity:</b> November/2019 - April/2020
-    <br>
-    <b>Addictional Observation:</b> Internship
-    <p>
-        <b>Roles:</b>
-    </p>
+    <b>Used tools:</b>
     <ul>
-        <li>Analysis of customer contracts in the payroll loan segment;</li>
-        <li>Entering contract data into the internal business system and monitoring it for any changes;</li>
-        <li>Technical repairs for issues involving the company's machinery, when then requested;</li>
-        <li>Reporting to management regarding contract amounts that exceeded the per-customer limit.</li>
+        <li>AgoraOS ERP;</li>
+        <li>AnyDesk;</li>
+        <li>PrintWayy.</li>
     </ul>
-    <p>
-        <b>
-            Used tools:
-        </b>
-        <ul>
-            <li>Cobmais;</li>
-            <li>Microsoft Office 365.</li>
-        </ul>
-    </p>
-<div>
-
-<hr>
-
-# ORA Serviços de Telecomunicações Ltda.
-
-<div>
-    <b>Position:</b> Network Technical Support
-    <br>
-    <b>Period of Activity:</b> March/2021 - May/2021
-    <br>
-    <b>Addictional Observation:</b> Internship
-    <p>
-        <b>Roles:</b>
-    </p>
-    <ul>
-        <li>Assignment to the Residential Customer Service department, through which it was possible to identify customer issues involving the connectivity of their respective devices;</li>
-        <li>Handling of open calls through the call center;</li>
-        <li>Network quality analysis and connection testing;</li>
-        <li>Triggering of on-site support;</li>
-        <li>Request for replacement of equipment such as fiber converter and Wi-Fi network router;</li>
-        <li>Configuring Wi-Fi networks according to customer requests.</li>
-    </ul>
-    <p>
-        <b>
-            Used tools:
-        </b>
-        <ul>
-            <li>Administrator access for routers;</li>
-            <li>AnyDesk;</li>
-            <li>GLPI;</li>
-            <li>PuTTY;</li>
-            <li>SimSwitch.</li>
-        </ul>
-    </p>
-<div>
-
-<hr>
-
-# Construtora Andrade Júnior
-
-<div>
-    <b>Position:</b> Administrative Assistant
-    <br>
-    <b>Period of Activity:</b> July/2021
-    <br>
-    <b>Addictional Observation:</b> Trial Period
-    <p>
-        <b>Roles:</b>
-    </p>
-    <ul>
-        <li>Preparation of financial forecasts for contracts based on measurement reports;</li>
-        <li>Assigning incoming calls to the designated extensions of the architecture team and scheduling meetings for the internal team;</li>
-        <li>Determining the cost of materials needed for construction projects within the internal corporate system;</li>
-        <li>Analysis of CTS based on the project costs and the contract closing date on a monthly basis;</li>
-        <li>Writing off PPCs that might be available for payment;</li>
-        <li>Notify the Accounts Payable department of the due date, creditor, and cost center along with the amounts for materials and labor.</li>
-    </ul>
-    <p>
-        <b>
-            Used tools:
-        </b>
-        <ul>
-            <li>Sienge ERP.</li>
-        </ul>
-    </p>
 <div>
 
 <hr>
@@ -176,12 +67,11 @@ In this section, you'll be able to learn about my past professional roles, highl
 # Empreendimentos Farmacêuticos Globo Ltda.
 
 <div>
-    <b>Position:</b> Senior Technical Support Specialist
+    <b>Position:</b> Senior Technical Support Specialist.
     <br>
-    <b>Period of Activity:</b> January/2022 - February/2026
-    <p>
-        <b>Roles:</b>
-    </p>
+    <b>Period of Activity:</b> January/2022 - March/2026.
+    <br>
+    <b>Roles:</b>
     <ul>
         <li>Processing of packing slip, such as activation and cancellation of NCC;</li>
         <li>Granting access to users due to change of duties or promotion to a new position/department;</li>
@@ -199,31 +89,126 @@ In this section, you'll be able to learn about my past professional roles, highl
         <li>Scanning IP addresses for possible negotiations, such as identifying equipment operating with an active web server or locating hostnames.;</li>
         <li>Remote support for in-store network devices such as switches, ONUs, firewalls, servers, and routers.</li>
     </ul>
-    <p>
-        <b>
-            Used tools:
-        </b>
-        <ul>
-            <li>AnyDesk;</li>
-            <li>Bitdefender GravityZone;</li>
-            <li>Fortinet family of technologies;</li>
-            <li>GLPI;</li>
-            <li>Hiren’s BootCD.</li>
-            <li>iFood Support;</li>
-            <li>ITEC LINX;</li>
-            <li>Lazesoft Recovery Suite;</li>
-            <li>Microsoft Office 365;</li>
-            <li>Nagios;</li>
-            <li>Nmap;</li>
-            <li>PaloAlto Cortex XDR;</li>
-            <li>PgAdmin4;</li>
-            <li>Portal Cosmos Pro;</li> 
-            <li>Python;</li>
-            <li>Senior;</li>
-            <li>Team Viewer;</li>
-            <li>Ubuntu 22.04;</li>
-            <li>VTEX;</li>
-            <li>WhatsApp Business;</li>
-        </ul>
-    </p>
+    <b>Used tools:</b>
+    <ul>
+        <li>AnyDesk;</li>
+        <li>Bitdefender GravityZone;</li>
+        <li>Fortinet family of technologies;</li>
+        <li>GLPI;</li>
+        <li>Hiren’s BootCD.</li>
+        <li>iFood Support;</li>
+        <li>ITEC LINX;</li>
+        <li>Lazesoft Recovery Suite;</li>
+        <li>Microsoft Office 365;</li>
+        <li>Nagios;</li>
+        <li>Nmap;</li>
+        <li>PaloAlto Cortex XDR;</li>
+        <li>PgAdmin4;</li>
+        <li>Portal Cosmos Pro;</li> 
+        <li>Python;</li>
+        <li>Senior;</li>
+        <li>Team Viewer;</li>
+        <li>Ubuntu 22.04;</li>
+        <li>VTEX;</li>
+        <li>WhatsApp Business;</li>
+    </ul>
+<div>
+
+<hr>
+
+# Construtora Andrade Júnior
+
+<div>
+    <b>Position:</b> Administrative Assistant.
+    <br>
+    <b>Period of Activity:</b> October/2020 - December/2021.
+    <br>
+    <b>Roles:</b>
+    <ul>
+        <li>Preparation of financial forecasts for contracts based on measurement reports;</li>
+        <li>Assigning incoming calls to the designated extensions of the architecture team and scheduling meetings for the internal team;</li>
+        <li>Determining the cost of materials needed for construction projects within the internal corporate system;</li>
+        <li>Analysis of CTS based on the project costs and the contract closing date on a monthly basis;</li>
+        <li>Writing off PPCs that might be available for payment;</li>
+        <li>Notify the Accounts Payable department of the due date, creditor, and cost center along with the amounts for materials and labor.</li>
+    </ul>
+    <b>Used tools:</b>
+    <ul>
+        <li>Sienge ERP.</li>
+    </ul>
+<div>
+
+<hr>
+
+# Quality Mais Service
+
+<div>
+    <b>Position:</b> Contract Analyst.
+    <br>
+    <b>Period of Activity:</b> August/2020 - October/2020.
+    <br>
+    <b>Roles:</b>
+    <ul>
+        <li>Analysis of customer contracts in the payroll loan segment;</li>
+        <li>Entering contract data into the internal business system and monitoring it for any changes;</li>
+        <li>Technical repairs for issues involving the company's machinery, when then requested;</li>
+        <li>Reporting to management regarding contract amounts that exceeded the per-customer limit.</li>
+    </ul>
+    <b>Used tools:</b>
+    <ul>
+        <li>Cobmais;</li>
+        <li>Microsoft Office 365.</li>
+    </ul>
+<div>
+
+<hr>
+
+# ORA Serviços de Telecomunicações Ltda.
+
+<div>
+    <b>Position:</b> Network Technical Support.
+    <br>
+    <b>Period of Activity:</b> January/2019 - July/2020.
+    <br>
+    <b>Roles:</b>
+    <ul>
+        <li>Assignment to the Residential Customer Service department, through which it was possible to identify customer issues involving the connectivity of their respective devices;</li>
+        <li>Handling of open calls through the call center;</li>
+        <li>Network quality analysis and connection testing;</li>
+        <li>Triggering of on-site support;</li>
+        <li>Request for replacement of equipment such as fiber converter and Wi-Fi network router;</li>
+        <li>Configuring Wi-Fi networks according to customer requests.</li>
+    </ul>
+    <b>Used tools:</b>
+    <ul>
+        <li>Administrator access for routers;</li>
+        <li>AnyDesk;</li>
+        <li>GLPI;</li>
+        <li>PuTTY;</li>
+        <li>SimSwitch.</li>
+    </ul>
+<div>
+
+<hr>
+
+# Toinho Atacadista
+
+<div>
+    <b>Position:</b> Stocktaker.
+    <br>
+    <b>Period of Activity:</b> April/2016 - June/2018.
+    <br>
+    <b>Roles:</b>
+    <ul>
+        <li>Receipt of products from the distributor;</li>
+        <li>Organization of products according to their classification;</li>
+        <li>Replacement of damaged and/or expired products;</li>
+        <li>General cleaning of the workplace every day;</li>
+        <li>Cash shortage when the operator was absent;</li>
+        <li>Customer service and reception, especially for those with physical disabilities.</li>
+    </ul>
+    <b>Used tools:</b>
+    <ul>
+        <li>Datacaixa PDV.</li>
+    </ul>
 <div>

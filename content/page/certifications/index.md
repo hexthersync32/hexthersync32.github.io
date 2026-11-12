@@ -6,7 +6,7 @@ layout: "certifications"
 slug: "certifications"
 menu:
     main:
-        weight: 6
+        weight: 7
         params: 
             icon: archives
 ---
@@ -40,5 +40,7 @@ To use this feature, the image must be in the same directory as the Markdown fil
 ![Vida Próspera | August 10th, 2025](img/06.png)
 
 ![Jornada Python | March 3rd, 2026](img/07.png)
+
+![Geração de Mídias e Urbas Eletrônicas - Eleições 2026 | September 12th, 2026](img/08.png)
 
 <!-- > Photo by [mymind](https://unsplash.com/@mymind) and [Luke Chesser](https://unsplash.com/@lukechesser) on [Unsplash](https://unsplash.com/) -->
